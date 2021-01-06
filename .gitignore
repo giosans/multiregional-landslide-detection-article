@@ -6,8 +6,8 @@
 
 # landslides
 historics/
-datasets/output/
-datasets/input/
+#datasets/output/
+#datasets/input/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
